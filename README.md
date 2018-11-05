@@ -1,6 +1,16 @@
 # whatsapp_analyse
 Take a chat from whatsapp and parse it, to analyse it afterwards
 
+#  Results example:
+![](results_example/3_User_Daily_Activity.png)
+
+![](results_example/Conversation_Matrix_All_User.png)
+
+![](results_example/Group_Daily_Weekly_Activity.png)
+
+![](results_example/lifetime_activity.png)
+
+
 How to use:
 
 go to a conversation in whatsapp and click on the 3 dots on the upper right.
