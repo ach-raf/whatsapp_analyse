@@ -85,7 +85,6 @@ def thread_parse(subject):
 
 
 if __name__ == '__main__':
-    # If ran independently, takes the HTML file path as input
     my_subject = argv[1]
     if not os.path.exists('./result/{0}/{0}_input'.format(my_subject)):
         os.makedirs('./result/{0}/{0}_input'.format(my_subject))
